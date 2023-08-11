@@ -2,4 +2,4 @@
 - https://github.com/patrykandpatrick/vico/issues/357
 - https://github.com/patrykandpatrick/vico/issues/358
 
-[Screen_recording.webm](Screen_recording.webm)
+https://github.com/joharei/VicoFirstClickRepro/assets/1397552/62131efe-7248-4114-af1c-20aba266c244
